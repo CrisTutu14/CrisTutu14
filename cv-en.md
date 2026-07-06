@@ -11,7 +11,7 @@ Automation and Applied Informatics student, specializing in embedded systems dev
 
 ---
 
-### Featured Projects
+### Selected Projects
 
 #### 🏫 ClassMonitor — Intelligent Lecture Room Monitoring & Live Transcription
 *Practice Project (DeviDevs) | [Source Code](https://github.com/SaucaVictor/proiect-practica)*
@@ -30,16 +30,6 @@ Automation and Applied Informatics student, specializing in embedded systems dev
 *Hardware Project | Arduino*
 - Developed an automated weather protection system based on an Arduino microcontroller.
 - Programmed a rain sensor input to trigger a servomotor, physically retracting the arm during rain.
-
-#### 🤖 Robotic Writing System
-*Robotics Project | URSim*
-- Programmed an industrial robot within the URSim simulator to execute writing paths on paper.
-- Implemented translation logic to convert user-inputted text into physical marker trajectories.
-
-#### 🌦️ Weather Forecast Application
-*Software Project | Java*
-- Developed a Java desktop application consuming a third-party weather API for real-time data.
-- Built a Graphical User Interface (GUI) displaying detailed hourly forecasts and a 7-day outlook.
 
 ---
 
