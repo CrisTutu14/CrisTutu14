@@ -7,15 +7,15 @@
 ---
 
 ### Profil Profesional
-Student la Automatică și Informatică Aplicată, specializat pe dezvoltarea de sisteme embedded, IoT și hardware-software integrations. Experiență practică în programare microcontrolere (C++), automatizări inteligente și interfețe web full-stack.
+Student la Automatică și Informatică Aplicată, specializat pe sisteme embedded, IoT și integrări software. Experiență practică în programare microcontrolere (C++), automatizări inteligente și interfețe web full-stack.
 
 ---
 
-### Proiecte Referință
+### Proiecte Selectate
 
 #### 🏫 ClassMonitor — Sistem Inteligent de Monitorizare a Sălii și Transcriere Live
 *Proiect de practică (DeviDevs) | [Cod Sursă](https://github.com/SaucaVictor/proiect-practica)*
-- Am proiectat și construit prototipul hardware folosind microcontrolerul **Wemos D1 R32 (ESP32)**.
+- Am construit prototipul hardware folosind microcontrolerul **Wemos D1 R32 (ESP32)**.
 - Am scris firmware-ul în **C++** (Arduino framework) pentru captarea și transmiterea audio brut (PCM) de la microfonul I2S INMP441 prin WebSockets.
 - Am integrat senzori analogici de telemetrie (DHT11, LDR, ACS712) și controlul PWM pentru actuatori (ventilator, rezistență termică, bandă LED).
 - Am dezvoltat un server bridge MQTT local pentru sincronizarea bidirecțională a datelor între echipament și platforma cloud Supabase.
@@ -23,23 +23,13 @@ Student la Automatică și Informatică Aplicată, specializat pe dezvoltarea de
 #### 🎵 Music Web App — Aplicație de Streaming Audio
 *Proiect Personal | [Cod Sursă](https://github.com/CrisTutu14/music-web-app)*
 - Am creat o aplicație web responsivă pentru redarea melodiilor și gestionarea listelor de redare.
-- Am implementat frontend-ul utilizând **HTML5, CSS3 și JavaScript** și un backend ușor în **PHP** pentru gestionarea dinamică a fișierelor audio.
+- Am implementat frontend-ul utilizând **HTML5, CSS3 și JavaScript** și un backend în **PHP** pentru gestionarea dinamică a fișierelor audio.
 - Am integrat baze de date pentru stocarea metadatelor fișierelor și a preferințelor utilizatorilor.
 
 #### 🏗️ Control Braț de Rufe Automatizat
 *Proiect Hardware | Arduino*
 - Am dezvoltat un sistem automatizat de protecție ambientală bazat pe microcontrolerul Arduino.
 - Am programat citirea senzorului de ploaie și acționarea unui servomotor pentru retragerea fizică a brațului în caz de intemperii.
-
-#### 🤖 Sistem Robotizat pentru Scriere la Comandă
-*Proiect Robotică | URSim*
-- Am programat un robot industrial în simulatorul URSim cu scopul de a executa scrierea pe hârtie.
-- Am implementat logica de traducere a caracterelor introduse de utilizator în traiectorii fizice ale markerului.
-
-#### 🌦️ Aplicație de Prognoză Meteo
-*Proiect Software | Java*
-- Am dezvoltat o aplicație desktop Java care consumă un API extern pentru starea vremii în timp real.
-- Am creat o interfață grafică (GUI) care afișează prognoza detaliată pe ore și pe următoarele 7 zile.
 
 ---
 
